@@ -1,1 +1,2 @@
-# JoomHost
+
+permalink: /404.html
