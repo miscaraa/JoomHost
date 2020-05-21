@@ -21,7 +21,7 @@ body {
 	color: #4a6385;
 	font-weight: 400;
 	line-height: 24px;
-	overflow: hidden;
+	overflow-x: hidden;
 }
 
 .header {
